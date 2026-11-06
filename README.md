@@ -4,11 +4,13 @@ Turn long gaming streams and recordings into polished clips and beat-synced mont
 
 ## Download
 
-### [⬇ Download ClipForge AI for Windows (319 MB)](https://github.com/infernoxc/ClipForge-App/releases/latest/download/ClipForge-Setup-0.3.0.exe)
+### [⬇ Download ClipForge AI for Windows (319 MB)](https://github.com/infernoxc/ClipForge-App/releases/latest/download/ClipForge-Setup-0.3.1.exe)
 
 1. Download the file and double-click it.
 2. Windows may say "Windows protected your PC", because the installer has no paid signing certificate. Click **More info**, then **Run anyway**.
 3. Click through the installer. ClipForge opens by itself and adds a desktop shortcut.
+
+You don't need to download again for new versions: go to **Settings**, then **Updates**, and press **Update now**. Your videos are kept.
 
 You don't need to install anything else. To shut ClipForge down, open **Stop ClipForge** from the Start menu.
 
@@ -16,9 +18,11 @@ You don't need to install anything else. To shut ClipForge down, open **Stop Cli
 
 ## What it does
 
-* **Finds your best moments.** It reads the PUBG kill feed and on-screen messages, listens to the sound, and ranks the highlights. It tells your kills from your teammates' and other players'. For other games it relies on sound and on-screen change.
+* **Finds your best moments.** It reads the PUBG kill feed and on-screen messages, listens to the sound, and ranks the highlights. It works out your in-game name and tells your kills from your teammates' and other players'. For other games it relies on sound and on-screen change.
 * **Cuts montages to the beat.** Cuts and kills land on the beat, from one video or several.
-* **Picks the bass part of the song by itself.** Songs are full length, and ClipForge chooses the strongest part for the length you pick. You can drag it to another part.
+* **Picks the bass part of the song by itself.** Free songs are full length, from many genres and countries, and ClipForge chooses the strongest part for the length you pick. You can drag it to another part.
+* **Ranks songs for your clips.** Hits are sorted by how well their beat fits the gunshots in the clips you selected.
+* **Cuts each clip its own way.** Choose an Edit feel, or press Try another edit.
 * **Keeps your sound real.** Your voice and gun sound keep their true speed and pitch through slow motion and speed ramps.
 * **Gives you 42 editable styles,** plus 30 caption designs and 21 fonts. Save your own versions.
 * **Frames your facecam.** It finds the facecam box for vertical, horizontal or square videos, and keeps your skin colour natural.
