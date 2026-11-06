@@ -4,13 +4,13 @@ Turn long gaming streams and recordings into polished clips and beat-synced mont
 
 ## Download
 
-### [⬇ Download ClipForge AI for Windows (319 MB)](https://github.com/infernoxc/ClipForge-App/releases/latest/download/ClipForge-Setup-0.3.1.exe)
+### [⬇ Download ClipForge AI for Windows (319 MB)](https://github.com/infernoxc/ClipForge-App/releases/latest/download/ClipForge-Setup-0.3.2.exe)
 
 1. Download the file and double-click it.
 2. Windows may say "Windows protected your PC", because the installer has no paid signing certificate. Click **More info**, then **Run anyway**.
 3. Click through the installer. ClipForge opens by itself and adds a desktop shortcut.
 
-You don't need to download again for new versions: go to **Settings**, then **Updates**, and press **Update now**. Your videos are kept.
+You don't need to download again for new versions: open **Updates** in the left menu and press **Update now**. Your videos are kept.
 
 You don't need to install anything else. To shut ClipForge down, open **Stop ClipForge** from the Start menu.
 
